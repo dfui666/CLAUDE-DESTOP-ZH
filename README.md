@@ -1,5 +1,6 @@
 CLAUDE-DESTOP-ZH 中文汉化
 一键汉化  一键还原 基本上1秒完成  **不修改 app.asar**，不影响 Cowork 沙箱功能。
+
 向作者打赏，联系作者 获取最新汉化。QQ：1031826866 （备注 CLAUDE 汉化）
 
 <img width="406" height="293" alt="截图4" src="https://github.com/user-attachments/assets/cd2bf4b4-afb4-4baf-ae9c-6ccb32e27f5c" /><img width="446" height="313" alt="截图14" src="https://github.com/user-attachments/assets/953719d4-daf5-4784-8f64-4a0f829d5197" />
